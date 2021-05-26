@@ -1,0 +1,4 @@
+Product |,Price|,Type        |,isAvailability
+Iphone X|,600$ |,SmartPhone  |,true
+RX 580  |,200$ |,Graphic card|,true
+Asus VB |,700$ |,Laptop      |,false
